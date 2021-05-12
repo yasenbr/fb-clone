@@ -1,12 +1,13 @@
 import React from "react";
-import './App.css';
+import Header from "./component/Header";
+import "./App.css";
 
 function App() {
   return (
     <div className="app">
       <h1>let build FB</h1>
 
-      {/**Header */}
+      <Header />
       {/**App body */}
       {/**Sidebar */}
       {/**Feed */}
