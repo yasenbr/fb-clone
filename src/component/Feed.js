@@ -4,7 +4,7 @@ import "../css/Feed.css";
 
 function Feed() {
   return (
-    <div>
+    <div className="feed">
       <StoryReel />
       {/**StoryReel */}
       {/**MessageSender */}
