@@ -12,7 +12,10 @@ import VideoLibraryIcon from "@material-ui/icons/VideoLibrary";
 function Sidebar() {
   return (
     <div className="sidebar">
-      <SidebarRow src="" title="" />
+      <SidebarRow
+        src="https://lh3.googleusercontent.com/ogw/ADGmqu_hh6GWh8mb6MnyqTCLclBLZ8O1ABxmQBUNmeoAXOw=s32-c-mo"
+        title="Yasen Ben Rhayem"
+      />
       <SidebarRow
         Icon={LocalHospitalIcon}
         title="COVID-19 Information Center"
