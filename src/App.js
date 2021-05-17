@@ -8,7 +8,7 @@ import Login from "./component/Login";
 import "./App.css";
 
 function App() {
-  const user = "Yasen";
+  const user = null;
   return (
     <div className="app">
       {!user ? (
